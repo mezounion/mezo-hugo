@@ -134,17 +134,17 @@ params:
     title: Our Clients love us!
     subtitle: Lorem ipsum sit dolor amet is a dummy text used by typography industry
     clients:
-    - name: Irma Walters
+    - name: Tom Guim
       quote: Lorem ipsum dolor sit amet, elit deleniti dissentias quo eu, hinc minim appetere te usu, ea case duis scribentur has. Duo te consequat elaboraret, has quando suavitate at.
-      job: Accountant
+      job: President
       img: 1
-    - name: John Bradley
+    - name: Jackson Bahm
       quote: Lorem ipsum dolor sit amet, elit deleniti dissentias quo eu, hinc minim appetere te usu, ea case duis scribentur has. Duo te consequat elaboraret, has quando suavitate at.
-      job: Financial Analyst
+      job: Vice-President
       img: 2
-    - name: Gary Blackman
+    - name: Cal Abbo
       quote: Lorem ipsum dolor sit amet, elit deleniti dissentias quo eu, hinc minim appetere te usu, ea case duis scribentur has. Duo te consequat elaboraret, has quando suavitate at.
-      job: HR Manager
+      job: Secretary
       img: 3
   footer:
     # Logo (from /images/logos/___)
@@ -184,9 +184,9 @@ params:
     - text: Developers
       link: /
     blogroll:
-    - text: Latest news
+    - text: Constitution
+      link: /docs/statuts.pdf
+    - text: Offices
       link: /
-    - text: Tech articles
-      link: /
-    - text: Video blog
+    - text: Board Members
       link: /
