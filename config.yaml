@@ -1,0 +1,194 @@
+baseURL: http://mezounion.org/
+languageCode: en-us
+title: Mezo Union
+
+params:
+  font:
+    name: "Open Sans"
+    sizes: [400,600]
+  hero:
+    # Main hero title
+    title: Sustainable Development
+    # Hero subtitle (optional)
+    subtitle: A new economic model that values people over profit
+    # Button text
+    buttontext: Start a Revolution
+    # Where the main hero button links to
+    buttonlink: "strategy"
+    # Hero image (from /images/___)
+    image: illustrations/worker.svg
+    # Footer logos (from /images/logos/clients/___.svg)
+    clientlogos:
+    - systek
+    - tribe
+    - kromo
+    - infinite
+    - gutwork
+  # Customizable navbar. For a dropdown, add a "sublinks" list.
+  navbar:
+  - title: Benefits
+    url: /benefits
+  - title: How it Works
+    url: /how-it-works
+  - title: Resources
+    sublinks:
+    - title: Strategy
+      url: /strategy
+    - title: Constitution
+      url: /constitution
+    - title: Code
+      url: /code
+  - title: Log in
+    url: /log-in
+  - title: Sign up
+    url: /sign-up
+    button: true
+  sidebar:
+    # Logo (from /images/logos/___.svg)
+    logo: fresh-square
+    sections:
+    - title: User
+      icon: user
+      links:
+      - text: Profile
+        url: /profile
+      - text: Account
+        url: /account
+      - text: Settings
+        url: /settings
+    - title: Messages
+      icon: envelope
+      links:
+      - text: Inbox
+        url: /inbox
+      - text: Compose
+        url: /compose
+    - title: Images
+      icon: image
+      links:
+      - text: Library
+        url: /library
+      - text: Upload
+        url: /upload
+    - title: Settings
+      icon: cog
+      links:
+      - text: User settings
+        url: /user-settings
+      - text: App settings
+        url: /app-settings
+  section1:
+    title: Great power comes
+    subtitle: with great responsibility
+    tiles:
+    - title: Zero Hunger
+      icon: laptop-cloud
+      text: This is some explanatory text that is on two rows
+      url: /
+      buttonText: Learn More
+    - title: Zero Inequality
+      icon: plug-cloud
+      text: This is some explanatory text that is on two rows
+      url: /
+      buttonText: Learn More
+    - title: Eco-Friendly
+      icon: plug-cloud
+      text: This is some explanatory text that is on two rows
+      url: /
+      buttonText: Learn More
+      buttonText: Learn More
+    - title: Lasting Peace
+      icon: plug-cloud
+      text: This is some explanatory text that is on two rows
+      url: /
+      buttonText: Learn More
+    - title: Worker Freedom
+      icon: plug-cloud
+      text: This is some explanatory text that is on two rows
+      url: /
+      buttonText: Learn More
+    - title: Desired Automation
+      icon: plug-cloud
+      text: This is some explanatory text that is on two rows
+      url: /
+      buttonText: Learn More
+  section2:
+    title: You're here because you want the best
+    subtitle: And we know it
+    features:
+    - title: Powerful and unified interface
+      text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.
+      # Icon (from /images/illustrations/icons/___.svg)
+      icon: laptop-globe
+    - title: Cross-device synchronisation
+      text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.
+      icon: doc-sync
+    - title: Nomad system
+      text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.
+      icon: mobile-feed
+  section3:
+    title: One platform
+    subtitle: To rule them all
+    image: illustrations/mockups/app-mockup.png
+    buttonText: Get started
+    buttonLink: "#"
+  section4:
+    title: Our Clients love us!
+    subtitle: Lorem ipsum sit dolor amet is a dummy text used by typography industry
+    clients:
+    - name: Irma Walters
+      quote: Lorem ipsum dolor sit amet, elit deleniti dissentias quo eu, hinc minim appetere te usu, ea case duis scribentur has. Duo te consequat elaboraret, has quando suavitate at.
+      job: Accountant
+      img: 1
+    - name: John Bradley
+      quote: Lorem ipsum dolor sit amet, elit deleniti dissentias quo eu, hinc minim appetere te usu, ea case duis scribentur has. Duo te consequat elaboraret, has quando suavitate at.
+      job: Financial Analyst
+      img: 2
+    - name: Gary Blackman
+      quote: Lorem ipsum dolor sit amet, elit deleniti dissentias quo eu, hinc minim appetere te usu, ea case duis scribentur has. Duo te consequat elaboraret, has quando suavitate at.
+      job: HR Manager
+      img: 3
+  footer:
+    # Logo (from /images/logos/___)
+    logo: fresh-white-alt.svg
+    # Social media links (GitHub, Twitter, etc.). All are optional.
+    socialmedia:
+    - link: https://github.com/mezounion/mezo
+      # Icons are from Font Awesome
+      icon: github
+    - link: https://dribbble.com/#
+      icon: dribbble
+    - link: https://facebook.com/mezounion
+      icon: facebook
+    - link: https://twitter.com/lucperkins
+      icon: twitter
+    - link: https://bitbucket.org/#
+      icon: bitbucket
+    bulmalogo: true
+    product:
+    - text: Discover features
+      link: /
+    - text: Why choose our product?
+      link: /
+    - text: Compare features
+      link: /
+    - text: Our roadmap
+      link: /
+    - text: Request features
+      link: /
+    docs:
+    - text: Get started
+      link: /
+    - text: User guides
+      link: /
+    - text: Admin guide
+      link: /
+    - text: Developers
+      link: /
+    blogroll:
+    - text: Latest news
+      link: /
+    - text: Tech articles
+      link: /
+    - text: Video blog
+      link: /
