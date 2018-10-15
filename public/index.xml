@@ -2,74 +2,74 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Mezo Union</title>
-    <link>http://mezounion.org/</link>
+    <link>https://mezounion.org/</link>
     <description>Recent content on Mezo Union</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="http://mezounion.org/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://mezounion.org/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>http://mezounion.org/benefits/</link>
+      <link>https://mezounion.org/benefits/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://mezounion.org/benefits/</guid>
+      <guid>https://mezounion.org/benefits/</guid>
       <description> {{ partial &#34;meta.html&#34; . }} {{ block &#34;title&#34; . }}{{ .Site.Title }}{{ end }} {{ partial &#34;css.html&#34; . }}     {{ block &#34;benefits&#34; . }} {{ partial &#34;navbar.html&#34; . }} {{ partial &#34;navbar-clone.html&#34; . }} //Insert original Code here {{ partial &#34;footer.html&#34; . }}  {{ partial &#34;sidebar.html&#34; . }} {{ end }} {{ partial &#34;javascript.html&#34; . }}   </description>
     </item>
     
     <item>
       <title></title>
-      <link>http://mezounion.org/code/</link>
+      <link>https://mezounion.org/code/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://mezounion.org/code/</guid>
+      <guid>https://mezounion.org/code/</guid>
       <description> {{ partial &#34;meta.html&#34; . }} {{ block &#34;title&#34; . }}{{ .Site.Title }}{{ end }} {{ partial &#34;css.html&#34; . }}     {{ block &#34;code&#34; . }} {{ partial &#34;navbar.html&#34; . }} {{ partial &#34;navbar-clone.html&#34; . }} //Insert original Code here {{ partial &#34;footer.html&#34; . }}  {{ partial &#34;sidebar.html&#34; . }} {{ end }} {{ partial &#34;javascript.html&#34; . }}   </description>
     </item>
     
     <item>
       <title></title>
-      <link>http://mezounion.org/constitution/</link>
+      <link>https://mezounion.org/constitution/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://mezounion.org/constitution/</guid>
+      <guid>https://mezounion.org/constitution/</guid>
       <description>{{ partial &#34;meta.html&#34; . }} {{ block &#34;title&#34; . }}{{ .Site.Title }}{{ end }} {{ partial &#34;css.html&#34; . }}     {{ block &#34;constitution&#34; . }} {{ partial &#34;navbar.html&#34; . }} {{ partial &#34;navbar-clone.html&#34; . }} {{- $hero := .Site.Params.hero }} {{- $title := index $hero &#34;title&#34; }} {{- $subtitle := index $hero &#34;subtitle&#34; }} {{- $buttonText := index $hero &#34;buttontext&#34; }} {{- $buttonLink := index $hero &#34;</description>
     </item>
     
     <item>
       <title></title>
-      <link>http://mezounion.org/how-it-works/</link>
+      <link>https://mezounion.org/how-it-works/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://mezounion.org/how-it-works/</guid>
+      <guid>https://mezounion.org/how-it-works/</guid>
       <description> {{ partial &#34;meta.html&#34; . }} {{ block &#34;title&#34; . }}{{ .Site.Title }}{{ end }} {{ partial &#34;css.html&#34; . }}     {{ block &#34;how-it-works&#34; . }} {{ partial &#34;navbar.html&#34; . }} {{ partial &#34;navbar-clone.html&#34; . }} //Insert original Code here {{ partial &#34;footer.html&#34; . }}  {{ partial &#34;sidebar.html&#34; . }} {{ end }} {{ partial &#34;javascript.html&#34; . }}   </description>
     </item>
     
     <item>
       <title></title>
-      <link>http://mezounion.org/log-in/</link>
+      <link>https://mezounion.org/log-in/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://mezounion.org/log-in/</guid>
+      <guid>https://mezounion.org/log-in/</guid>
       <description> {{ partial &#34;meta.html&#34; . }} {{ block &#34;title&#34; . }}{{ .Site.Title }}{{ end }} {{ partial &#34;css.html&#34; . }}     {{ block &#34;log-in&#34; . }} {{ partial &#34;navbar.html&#34; . }} {{ partial &#34;navbar-clone.html&#34; . }} //Insert original Code here {{ partial &#34;footer.html&#34; . }}  {{ partial &#34;sidebar.html&#34; . }} {{ end }} {{ partial &#34;javascript.html&#34; . }}   </description>
     </item>
     
     <item>
       <title></title>
-      <link>http://mezounion.org/sign-up/</link>
+      <link>https://mezounion.org/sign-up/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://mezounion.org/sign-up/</guid>
+      <guid>https://mezounion.org/sign-up/</guid>
       <description> {{ partial &#34;meta.html&#34; . }} {{ block &#34;title&#34; . }}{{ .Site.Title }}{{ end }} {{ partial &#34;css.html&#34; . }}     {{ block &#34;sign-up&#34; . }} {{ partial &#34;navbar.html&#34; . }} {{ partial &#34;navbar-clone.html&#34; . }} //Insert original Code here {{ partial &#34;footer.html&#34; . }}  {{ partial &#34;sidebar.html&#34; . }} {{ end }} {{ partial &#34;javascript.html&#34; . }}   </description>
     </item>
     
     <item>
       <title></title>
-      <link>http://mezounion.org/strategy/</link>
+      <link>https://mezounion.org/strategy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>http://mezounion.org/strategy/</guid>
+      <guid>https://mezounion.org/strategy/</guid>
       <description> {{ partial &#34;meta.html&#34; . }} {{ block &#34;title&#34; . }}{{ .Site.Title }}{{ end }} {{ partial &#34;css.html&#34; . }}     {{ block &#34;strategy&#34; . }} {{ partial &#34;navbar.html&#34; . }} {{ partial &#34;navbar-clone.html&#34; . }} //Insert original Code here {{ partial &#34;footer.html&#34; . }}  {{ partial &#34;sidebar.html&#34; . }} {{ end }} {{ partial &#34;javascript.html&#34; . }}   </description>
     </item>
     
