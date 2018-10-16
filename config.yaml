@@ -80,33 +80,33 @@ params:
     subtitle: with great responsibility
     tiles:
     - title: Zero Hunger
-      icon: laptop-cloud
+      icon: food
       text: This is some explanatory text that is on two rows
       url: /
       buttonText: Learn More
     - title: Zero Inequality
-      icon: plug-cloud
+      icon: inequality
       text: This is some explanatory text that is on two rows
       url: /
       buttonText: Learn More
     - title: Eco-Friendly
-      icon: plug-cloud
+      icon: leaf
       text: This is some explanatory text that is on two rows
       url: /
       buttonText: Learn More
       buttonText: Learn More
     - title: Lasting Peace
-      icon: plug-cloud
+      icon: pigeon
       text: This is some explanatory text that is on two rows
       url: /
       buttonText: Learn More
     - title: Worker Freedom
-      icon: plug-cloud
+      icon: workers
       text: This is some explanatory text that is on two rows
       url: /
       buttonText: Learn More
     - title: Desired Automation
-      icon: plug-cloud
+      icon: gear
       text: This is some explanatory text that is on two rows
       url: /
       buttonText: Learn More
