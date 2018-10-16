@@ -76,8 +76,8 @@ params:
       - text: App settings
         url: /app-settings
   section1:
-    title: Great power comes
-    subtitle: with great responsibility
+    title: Change the world
+    subtitle: restructure society
     tiles:
     - title: Zero Hunger
       icon: food
