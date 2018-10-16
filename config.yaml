@@ -132,11 +132,11 @@ params:
       job: President
       img: 1
     - name: Jackson Bahm
-      quote: Lead Developer for Mezo and regional director of Asia and Australia.
+      quote: Lead Developer and regional director of Asia and Australia.
       job: Vice-President
       img: 2
     - name: Cal Abbo
-      quote: Political Scientist for Mezo and regional director of North and South America.
+      quote: Analyst and regional director of North and South America.
       job: Secretary
       img: 3
   footer:
