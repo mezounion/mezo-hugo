@@ -17,9 +17,9 @@ params:
     buttonlink: "strategy"
     # Footer logos (from /images/logos/clients/___.svg)
     clientlogos:
-    - systek
-    - tribe
     - kromo
+    - france
+    - tribe
     - infinite
     - gutwork
   # Customizable navbar. For a dropdown, add a "sublinks" list.
