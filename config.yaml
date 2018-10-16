@@ -19,8 +19,8 @@ params:
     clientlogos:
     - kromo
     - france
-    - tribe
-    - infinite
+    - un
+    - systek
     - gutwork
   # Customizable navbar. For a dropdown, add a "sublinks" list.
   navbar:
@@ -117,13 +117,13 @@ params:
     - title: Powerful and unified interface
       text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.
       # Icon (from /images/illustrations/icons/___.svg)
-      icon: laptop-globe
+      icon: love
     - title: Cross-device synchronisation
       text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.
-      icon: doc-sync
+      icon: law
     - title: Nomad system
       text: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin ornare magna eros, eu pellentesque tortor vestibulum ut. Maecenas non massa sem. Etiam finibus odio quis feugiat facilisis.
-      icon: mobile-feed
+      icon: peace
   section3:
     title: One platform
     subtitle: To rule them all
