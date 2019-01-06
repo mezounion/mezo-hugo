@@ -151,7 +151,7 @@ params:
       icon: dribbble
     - link: https://facebook.com/mezounion
       icon: facebook
-    - link: https://twitter.com/lucperkins
+    - link: https://twitter.com/mezounion
       icon: twitter
     - link: https://bitbucket.org/#
       icon: bitbucket
@@ -164,7 +164,7 @@ params:
     - text: Our roadmap
       link: /
     docs:
-    - text: Starting the Revolution
+    - text: Get Started
       link: https://libcom.org/files/Organise.pdf
     - text: User guides
       link: https://docs.mezounion.org/
