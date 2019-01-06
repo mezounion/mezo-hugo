@@ -156,7 +156,7 @@ params:
     - link: https://bitbucket.org/#
       icon: bitbucket
     bulmalogo: true
-    mezo:
+    product:
     - text: Discover features
       link: /
     - text: Compare features
@@ -170,7 +170,7 @@ params:
       link: https://docs.mezounion.org/
     - text: Developers
       link: https://docs.mezounion.org/
-    legal:
+    blogroll:
     - text: Constitution
       link: /docs/statuts.pdf
     - text: Offices
