@@ -168,14 +168,12 @@ params:
     - text: Request features
       link: /
     docs:
-    - text: Get started
-      link: /
+    - text: Starting the Revolution
+      link: https://libcom.org/files/Organise.pdf
     - text: User guides
-      link: /
-    - text: Admin guide
-      link: /
+      link: https://docs.mezounion.org/
     - text: Developers
-      link: /
+      link: https://docs.mezounion.org/
     blogroll:
     - text: Constitution
       link: /docs/statuts.pdf
