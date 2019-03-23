@@ -8,7 +8,7 @@ params:
     sizes: [400,600]
   hero:
     # Main hero title
-    title: Solidarity Economics
+    title: Solidarity Society
     # Hero subtitle (optional)
     subtitle: People over Profit
     # Button text
